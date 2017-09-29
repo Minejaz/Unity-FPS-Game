@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: af2c2db2908012c4598f3563acbfb8ad
+  productGUID: 4631fef0dd88b424787256a6a8600d02
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: New Unity Project
+  productName: FPS
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -508,14 +508,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: New Unity Project
+  metroPackageName: FPS
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: New Unity Project
+  metroApplicationDescription: FPS
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -587,13 +587,12 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: aa40fa9e-79a2-4207-95e2-fe98d7d72042
-  projectName: New Unity Project
-  organizationId: singularity_145
+  cloudProjectId: 7e1a2da0-c8e0-4d61-8686-d4fd2ae14dba
+  projectName: FPS
+  organizationId: spicy-game
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
